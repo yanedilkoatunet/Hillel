@@ -1,4 +1,3 @@
-
 import unittest
 from unittest.mock import patch
 from lesson_13.homework_13 import log_event
