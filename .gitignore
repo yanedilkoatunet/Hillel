@@ -1,0 +1,6 @@
+
+# Pytest
+.idea/
+__pycache__/
+.pytest_cache/
+test_search.log
