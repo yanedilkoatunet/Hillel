@@ -1,4 +1,3 @@
-
 # CSS Locators
 
 ```css
@@ -28,7 +27,6 @@ input#signupRepeatPassword
 button.btn-primary[disabled]
 input#signupPassword + input#signupRepeatPassword
 ```
-
 # XPath Locators
 
 ```xpath
